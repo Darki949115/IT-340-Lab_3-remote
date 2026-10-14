@@ -1,0 +1,31 @@
+commit 9a1bce85366837b6ab01cc1927a9fb09b3c894de
+Author: Luis Villafuerte <ldv@njit.edu>
+Date:   Wed Oct 14 01:40:58 2026 -0400
+
+    Revert "Added practice file for reverting"
+    
+    This reverts commit 074bf5d30ccd5742e5a84b466315de4f5a844253.
+
+commit 074bf5d30ccd5742e5a84b466315de4f5a844253
+Author: Luis Villafuerte <ldv@njit.edu>
+Date:   Wed Oct 14 01:40:45 2026 -0400
+
+    Added practice file for reverting
+
+commit c8fb95443e4b81329f09b6d52ae49210fcbcf7e2
+Author: Luis Villafuerte <ldv@njit.edu>
+Date:   Wed Oct 14 01:39:55 2026 -0400
+
+    Second modification to os-release
+
+commit 19d7c2b590e4c9309038488f3c752b54ed8a133c
+Author: Luis Villafuerte <ldv@njit.edu>
+Date:   Wed Oct 14 01:24:11 2026 -0400
+
+    Updated os-release on experimental branch
+
+commit f46bebb73c439d082f377a3223df7e1ee077fbbe
+Author: Luis Villafuerte <ldv@njit.edu>
+Date:   Wed Oct 14 01:21:55 2026 -0400
+
+    Initial commit with Ubuntu system files
